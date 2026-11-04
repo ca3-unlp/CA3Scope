@@ -15,7 +15,7 @@ La aplicación no requiere instalación previa de Python, librerías adicionales
 
 | Paquete | Versión | Archivo | Plataforma |
 | :--- | :---: | :---: | :---: |
-| **CA3 Scope** | `v1.0.0` | [`CA3Scope_v1.0.0.zip`](./CA3Scope_v1.0.0.zip) | Windows 10 / 11 (64-bit) |
+| **CA3 Scope** | `v1.0.0` | [`CA3Scope_v1.0.0.zip`](https://github.com/ca3-unlp/CA3Scope/releases/tag/CA3Scope_v1.0.0) | Windows 10 / 11 (64-bit) |
 
 > 💡 **Nota:** También podés descargar el paquete directamente desde la sección lateral derecha de **[Releases](../../releases)** de este repositorio.
 
